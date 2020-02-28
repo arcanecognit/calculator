@@ -1,0 +1,42 @@
+button {
+
+	box-sizing: border-box;
+	height: 50px;
+	width: 80px;
+}
+
+
+table {
+	margin: 100px auto;
+
+}
+
+thead {
+}
+
+.display {
+	border: 1px solid black;
+	height: 40px;
+	width: 340px;
+	margin: 40px 5px;
+	position: absolute;
+}
+
+.display p {
+	font-size: 25px;
+	text-align: right;
+	margin: 2px;
+}
+
+.equals {
+	background-color: #cc6d2d;
+}
+
+.operand {
+	background-color: #8cb6ff;
+}
+
+.face {
+	border: 1px solid black;
+	max-width: 350px;
+}
